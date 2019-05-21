@@ -1,2 +1,2 @@
-# Feed Reader Testing project
-##### (Not yet complete)
+# Feed Reader Testing project - in progress
+##### (being worked on)
