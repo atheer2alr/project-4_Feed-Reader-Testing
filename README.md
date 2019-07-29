@@ -1,6 +1,6 @@
 # Feed Reader Testing project 
 
-# Project Overview
+## Project Overview
 In this project we are given a web-based application and (**included Jasmine** ) that reads RSS feeds. 
 
 ## Jasmine: 
